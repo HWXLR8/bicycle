@@ -5,8 +5,8 @@
 | Velobulid Seatpost + clamp | 240.9g |
 | OG-EVKIN 420mm Handlebars (HB-010-420) | 186g |
 | Uno Ultralight Stem 7°/90mm with all bolts | 129.6g |
-| Ultegra 11-28 casette | 245.1g |
-| Ultegra BB | 75.2g |
+| Shimano Ultegra 11-28 casette | 245.1g |
+| Shimano Ultegra BB | 75.2g |
 | Shimano 105 Break (Rear) | 192.2g |
 | Shimano 105 Break (Front) |  |
 | Shimano 105 Rear Derailleur | 228.4g |
