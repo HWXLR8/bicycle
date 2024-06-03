@@ -12,3 +12,4 @@
 | Shimano 105 Rear Derailleur | 228.4g |
 | Shimano 105 Front Derailleur | 94.3g |
 | Winspace QR Skewer | 61.9g (x2) |
+| ELITAONE Saddle (3143ER) | 90.4g |
